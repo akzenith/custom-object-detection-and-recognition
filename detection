@@ -7,5 +7,5 @@ sliding window detection:=
         pros:= fast 
         cons- high computational cost.
   
-  YOLO ALGORITHM:= Used for making accurate bounding box .
+  YOLO(you only look once) ALGORITHM:= Used for making accurate bounding box .
         
